@@ -1,0 +1,8 @@
+         t   Test case: order entry
+S46143332A   222222B   111ABC       858900Y
+         t   Test case: trade
+S46300560E   222222   111            444444
+         t   Test case: order entry related to trade
+S46300713A   444444S     1ABC       858900Y
+         t   Test case: new order entry
+S47268000A   776577S     6GGL       700000Y

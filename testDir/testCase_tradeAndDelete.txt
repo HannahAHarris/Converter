@@ -1,0 +1,16 @@
+         t   Test case: order entry
+S42257971A   375053S     6ASX       408400Y
+         t   Test case: trade full volume
+S42257978E   375053     6            311111
+         t   Test case: order entry
+S42258550A   268000S     6BBC       200000Y
+         t   Test case: trade partial volume
+S42259000E   268000     2            322222
+         t   Test case: order entry
+S42260000A   355555S     6CBA       300000Y
+         t   Test case: trade partial volume
+S42261000E   268000     4            323233
+         t   Test case: deletion
+S42262000X   355555     6
+         t   Test case: order entry
+S42263000A   464646S     6DMV       400000Y

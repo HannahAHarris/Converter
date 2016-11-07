@@ -1,0 +1,13 @@
+         t   Test case: add two orders for diff stocks
+S42267500A   636366S     6FFS       600000Y
+S42268000A   776577S     6GGL       700000Y
+         t   Test case: first trade
+S42268500E   636366     3      123   664656
+         t   Test case: same stock different id
+S42269000E   636366    25      124   677777
+         t   Test case: consecutive trade total size 50
+S42269000E   636366    25      125   677777
+         t   Test case: trade different stock
+S42269300E   776577     1      126   774747
+         t   Test case: trigger agg message with a passive
+S42263000A   464646S     6DMV       400000Y

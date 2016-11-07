@@ -1,0 +1,12 @@
+t   Test case: order entry
+S42267500A   636366S     6FFS       600000Y
+t   Test case: trade
+S42268500E   636366     3            664656
+t   Test case: trade
+S42269000E   636366     1            664656
+t   Test case: cancel full vol amend
+S42269500X   636366     2
+t   Test case: re-entry amend for price
+S42269800A   636366S     2FFS       444444Y
+t   Test case: new order entry
+S42269990A   776577S     6GGL       700000Y

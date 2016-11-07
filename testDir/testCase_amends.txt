@@ -1,0 +1,12 @@
+         t   Test case: order entry
+S42263000A   464646S     6DMV       400000Y
+         t   Test case: full volume cancel
+S42264000X   464646     6
+         t   Test case: re-entry amend for price
+S42265500A   464646S     6DMV       444444Y
+         t   Test case: new order entry
+S42266000A   555557S     6EMA       500000Y
+         t   Test case: cancel for partial volume - amend for volume
+S42267000X   555557     4
+         t   Test case: new order entry
+S42267500A   636366S     6FFS       600000Y

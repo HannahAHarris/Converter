@@ -1,0 +1,10 @@
+         t   Test case: order entry
+S42267500A   636366S     6FFS       600000Y
+         t   Test case: trade
+S42268500E   636366     3            664656
+         t   Test case: trade
+S42269000E   636366     1            664656
+         t   Test case: new order entry
+S42268000A   776577S     6GGL       700000Y
+         t   Test case: trade
+S42269000E   776577     4            774656
